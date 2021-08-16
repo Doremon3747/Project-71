@@ -1,0 +1,78 @@
+body{
+    text-align: center;
+    background-color: snow;
+}
+
+.contact_1{
+    display: inline-block;
+    background-color: bisque;
+    font-family:fantasy;
+    font-size: 400;   
+}
+h4{
+text-decoration-color: darkblue;
+}
+
+h3{
+    text-decoration-color: purple;
+}
+
+iframe{
+    text-align: center;
+}
+
+
+achievementsID{
+    padding-bottom: 10px;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i{
+    float: right;
+}
+
+movie_text span{
+    color: darksalmon;
+}
+
+environment_li{
+    margin-top: 13px;
+}
+
+environment-li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+environment_li img{
+    border-radius: 25px;
+    height: 250px;
+    
+}
+
+environment_li p{
+    margin-top: 10px;
+    display: inline-block;
+}
+img{
+    text-align: center;
+}
+
+
+#footer{
+    height: 20px;
+    background-color: white;
+}
+
+#alumini{
+    text-align: center;
+    float:inline-end;
+}
